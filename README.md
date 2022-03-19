@@ -2,10 +2,10 @@
 
 # ตัวอะไรไม่รู้ but CPSK
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](blob/main/LICENSE)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![hikari](https://img.shields.io/badge/hikari-2.0.0-e44ecc.svg?style=flat-square)](https://github.com/hikari-py/hikari)
-[![Hikari-Tanjun](https://img.shields.io/badge/Tanjun-2.4.3a1-e44ecc.svg?style=flat-square)](https://github.com/FasterSpeeding/Tanjun)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](blob/main/LICENSE)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![hikari](https://img.shields.io/badge/hikari-2.0.0-e44ecc.svg?style=flat-square)](https://github.com/hikari-py/hikari)  
+[![Hikari-Tanjun](https://img.shields.io/badge/Tanjun-2.4.3a1-e44ecc.svg?style=flat-square)](https://github.com/FasterSpeeding/Tanjun)  
 
 This bot is called **ตัวอะไรไม่รู้ but CPSK** (/tʰuaʔarajmajâ:ruːáːbʌtsiːpiːʔeːskʰeː/). It was originally a Discord bot created by [phusitsom](https://github.com/phusitsom). The bot is made for KU81 CPSK Discord Server.
 

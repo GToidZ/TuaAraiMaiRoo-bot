@@ -39,3 +39,5 @@ cover/
 out
 dist
 build
+
+config.json

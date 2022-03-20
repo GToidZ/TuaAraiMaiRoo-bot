@@ -1,0 +1,2 @@
+hikari~=2.0.0.dev107
+hikari-tanjun~=2.4.3a1
